@@ -1,13 +1,20 @@
 body
 {
+<<<<<<< HEAD
 
     color: #333;
 
+=======
+<<<<<<< HEAD
+    color: blue;
+=======
+    color: blue;
+>>>>>>> header
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
 
 }
-#cabecera 
+
 
 {
     background: #bbf;
