@@ -1,2 +1,2 @@
 # hyperblog
-Mi primer blog de practica. 
+Mi primer blog de practica, joder. 
