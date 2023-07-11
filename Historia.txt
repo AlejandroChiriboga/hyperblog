@@ -6,12 +6,6 @@ Hoy hablaremos de su historia.
 
 Master 1
 
-<<<<<<< HEAD
 Master 2
-=======
-Experimento 2
-
-Master 1 
->>>>>>> a539975 (Exp 2)
 
 Mañana veremos su vida laboral
